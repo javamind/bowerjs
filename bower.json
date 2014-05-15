@@ -1,14 +1,11 @@
 {
-  "name": "tpbower",
+  "name": "bowerjs",
   "version": "1.0.0",
   "authors": [
     "“Guillaume <guillaume.ehret.java@gmail.com>"
   ],
   "description": "Librairie de test bower",
-  "main": "js/tpbower.js",
-  "moduleType": [
-    "es6"
-  ],
+  "main": "tpbower.js",
   "keywords": [
     "bower",
     "test"
