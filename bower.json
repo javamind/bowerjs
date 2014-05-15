@@ -1,11 +1,8 @@
 {
   "name": "bowerjs",
   "version": "1.0.0",
-  "authors": [
-    "“Guillaume <guillaume.ehret.java@gmail.com>"
-  ],
   "description": "Librairie de test bower",
-  "main": "tpbower.js",
+  "main": "bowerjs.js",
   "keywords": [
     "bower",
     "test"
@@ -13,10 +10,7 @@
   "license": "MIT",
   "private": true,
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
     "test",
-    "tests"
+    ".git"
   ]
 }
